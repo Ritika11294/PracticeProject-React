@@ -1,0 +1,64 @@
+{
+  "productData": [
+    {
+      "id": 3,
+      "name": "Apple MacBook Pro Core i5",
+      "description": "Brand new laptop, rarely used",
+      "category": "Electronics",
+      "image": "https://ovantica.com/pub/media/catalog/product/cache/359e51c8e354c4e2b5af98e814f93978/5/1/51tdkjsqeql._sx679__1_.jpg",
+      "location": "India",
+      "postedAt": "2023-02-09",
+      "price": "20000"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo IdeaPad D330",
+      "description": "Brand new laptop, rarely used",
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/51gkDWHPvQL._SX569_.jpg",
+      "location": "India",
+      "postedAt": "2023-06-18",
+      "price": "20000"
+    },
+    {
+      "id": 5,
+      "name": "Mahindra Scorpio classic",
+      "description": "Brand new car, rarely used",
+      "category": "Automobile",
+      "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/128413/scorpio-classic-exterior-right-front-three-quarter.jpeg?isig=0",
+      "location": "India",
+      "postedAt": "2023-02-02",
+      "price": "2000000"
+    },
+    {
+      "id": 6,
+      "name": "BMW X1",
+      "description": "Brand new car, rarely used",
+      "category": "Automobile",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/fsb0080o40kh3-IN/image;s=300x600;q=60",
+      "location": "India",
+      "postedAt": "2023-02-05",
+      "price": "1150000"
+    },
+    {
+      "name": "Chair",
+      "description": "Brand new chair, rarely used",
+      "category": "Furniture",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkYrVipGjmE_3hYw-i0ZO4G27r1jh9zNNo5gemQi-rq2yvIexLHH0ufyIB8s1ag4Vh9TrNq4EEC7UADp9yx2JwqKMqPq8kyCWmZ85mrCn3F8lgoiLenJilItjg2xq4FqC-W6M&usqp=CAc",
+      "location": "India",
+      "postedAt": "2023-06-02",
+      "price": "8000",
+      "id": 7
+    },
+    {
+      "name": "Nike Air",
+      "description": "Almost brand new, rarely used",
+      "category": "Clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7fbc5e94-8d49-4730-a280-f19d3cfad0b0/custom-nike-air-max-90-by-you.png",
+      "location": "India",
+      "postedAt": "2023-06-26",
+      "price": "8000",
+      "id": 8
+    }
+  ]
+}
